@@ -146,6 +146,9 @@
         },
         "PAGE_2": {
           "TITLE": "Erstelle eine Karteikarte"
+        },
+        "PAGE_3": {
+          "TITLE": "Verwende Tab um Notizen zu strukturieren"
         }
       }
     }
