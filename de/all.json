@@ -177,12 +177,14 @@
         "CLOZE_CARDS": "Lückentext-Karten",
         "CLOZE_CARDS_TOOLTIP": "Erstellen Sie Lückentext-Karteikarten aus dem ausgewählten Text.",
         "CONCEPT_CARDS": "Konzeptkarten",
+        "CONCEPT_CARDS_TOOLTIP": "Erstelle concept-descriptor Karten aus dem markierten Text.",
         "GENERATE_SECTION": "GENERIEREN"
       },
       "CLOZE_BTN_TOOLTIP": "Lückentext-Lernkarte",
       "COPY_IMAGE": "Bild kopieren",
       "COPY_TEXT": "Nur Text kopieren",
       "HIGHLIGHT": "Markieren",
+      "MAKE_IMG_OCC_BTN_TOOLTIP": "Erstelle Bild-Lücken-Karten",
       "NOTE_BTN_TOOLTIP": "Notiz"
     },
     "EDIT_ANNOTATIONS": {
